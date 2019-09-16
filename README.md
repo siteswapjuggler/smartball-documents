@@ -14,7 +14,7 @@ All the technological development work made in the Smartball project is availabl
 
 ## Linked repositories
 
-This repository refers directly its following siblings : 
+This repository refers directly to its following siblings : 
 
 - https://github.com/siteswapjuggler/smartball-firmware
 - https://github.com/siteswapjuggler/smartball-externals
